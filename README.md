@@ -19,7 +19,7 @@ TODO
 
 # LICENSE
 
-This software is Copyright (c) 2026 by Sanko Robinson <30663+sanko@users.noreply.github.com>.
+This software is Copyright (c) 2026 by Sanko Robinson.
 
 This is free software, licensed under:
 
@@ -31,4 +31,4 @@ See the `LICENSE` file for full text.
 
 # AUTHOR
 
-Sanko Robinson <30663+sanko@users.noreply.github.com>
+Sanko Robinson &lt;https://github.com/sanko>

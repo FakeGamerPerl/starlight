@@ -24,7 +24,7 @@ TODO
 
 =head1 LICENSE
 
-This software is Copyright (c) 2026 by Sanko Robinson E<lt>30663+sanko@users.noreply.github.comE<gt>.
+This software is Copyright (c) 2026 by Sanko Robinson.
 
 This is free software, licensed under:
 
@@ -34,7 +34,7 @@ See the F<LICENSE> file for full text.
 
 =head1 AUTHOR
 
-Sanko Robinson <30663+sanko@users.noreply.github.com>
+Sanko Robinson <https://github.com/sanko>
 
 =begin stopwords
 
