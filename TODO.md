@@ -26,6 +26,9 @@ A space logistics, traffic management, and life simulation engine written in Per
     - [ ] Dispatched tugs physically transit from the Hub into the corridor toward the stranded ship's coordinates.
     - [ ] Tug hookup: Tug locks onto stranded vessel; combined mass is calculated for the return/tow burn.
     - [ ] SAR fuel costs and operational wear billed back to the rescued ship or hub operating budget.
+  - [ ] **Sister Ships:**
+    - [ ] A company object with a list of owned ships.
+    - [ ] A passing sister ship could take on cargo from slower or broken down ships.
 
 - [ ] Phase 2: Economic Settlement & Port Logistics
   - [ ] **Post-Docking Settlement (`$hub->settle_ship($ship)`):**
