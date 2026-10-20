@@ -23,6 +23,32 @@ provides:
   FakeGamer::Starlight:
     file: lib/FakeGamer/Starlight.pm
     version: v0.0.1
+  FakeGamer::Starlight::Cargo:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Cargo::Food:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Cargo::Fuel:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Cargo::Machinery:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Cargo::Ore:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Cargo::Person:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Construct:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Engine:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Hub:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Map:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Map::Corridor:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::Ship:
+    file: lib/FakeGamer/Starlight.pm
+  FakeGamer::Starlight::System:
+    file: lib/FakeGamer/Starlight.pm
 requires:
   SDL3: v0.0.6
   perl: v5.40.0
